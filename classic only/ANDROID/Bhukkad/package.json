@@ -1,0 +1,20 @@
+{
+  "name": "com.quantumbytestudios.bhukkad",
+  "version": "1.0.0.0",
+  "displayName": "Bhukkad",
+  "dependencies": {},
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-custom-config": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-wkwebview-engine": {}
+    }
+  }
+}
