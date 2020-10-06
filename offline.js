@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1601745386,
+	"version": 1602002832,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,9 @@
 		"images/c_smileheart-sheet0.png",
 		"images/blackhole-sheet0.png",
 		"images/gameover-sheet0.png",
+		"images/victory-sheet0.png",
+		"images/victoryemoji-sheet0.png",
+		"images/victoryemoji-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
