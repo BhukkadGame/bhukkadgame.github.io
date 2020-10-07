@@ -176,7 +176,7 @@
 			{
 				//self.isConnected = true;
 			}
-			else if (self.pc.iceConnectionState === "disconnected" || self.pc.iceConnectionState === "failed" || self.pc.iceConnectionState === "closed")
+			else if (self.pc.iceConnectionState === "failed" || self.pc.iceConnectionState === "closed")
 			{
 				self.remove("disconnect");
 			}
